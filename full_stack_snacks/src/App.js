@@ -16,8 +16,8 @@ export default class App extends React.Component {
     super(props);
     this.state = {
       snacks: [
-        {id: 1234, name: "abcd"},
-        {id: 5678, name: "efgh"},
+        {id: 1234, name: "abcd", desc: "yaya"},
+        {id: 5678, name: "efgh", desc: "nana"},
       ]      
     }
     this.renderSnackDetail = this.renderSnackDetail.bind(this)
