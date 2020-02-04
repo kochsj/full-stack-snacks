@@ -1,8 +1,10 @@
 import React from 'react'
+import { Link } from "react-router-dom"
 
 export default props => (
     <>
-        <p>this is a detail</p>
+        <p>{props.snack.name}</p>
+        <p>{props.snack.id}</p>
     </>
 )
 
