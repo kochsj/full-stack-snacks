@@ -1,0 +1,80 @@
+{
+  "modules": {
+    "byIdentifier": {
+      "multi private-next-pages/src/App.js": 0,
+      "multi private-next-pages/src/App.test.js": 1,
+      "multi private-next-pages/src/components/LoginForm.js": 2,
+      "multi private-next-pages/src/components/snackDetail.js": 3,
+      "multi private-next-pages/src/components/snackForm.js": 4,
+      "multi private-next-pages/src/components/snackList.js": 5,
+      "multi private-next-pages/src/index.js": 6,
+      "multi private-next-pages/src/serviceWorker.js": 7,
+      "multi private-next-pages/src/setupTests.js": 8,
+      "multi next/dist/pages/_app": 9,
+      "multi next/dist/pages/_error": 10,
+      "multi next/dist/pages/_document": 11,
+      "multi private-next-pages/_app.js": 9
+    },
+    "usedIds": {
+      "0": 0,
+      "1": 1,
+      "2": 2,
+      "3": 3,
+      "4": 4,
+      "5": 5,
+      "6": 6,
+      "7": 7,
+      "8": 8,
+      "9": 9,
+      "10": 10,
+      "11": 11
+    }
+  },
+  "chunks": {
+    "byName": {
+      "init-server.js": 0,
+      "on-error-server.js": 1,
+      "static/yOJpA9oXXzP5OXkD4lJp7/pages/_app.js": 2,
+      "static/yOJpA9oXXzP5OXkD4lJp7/pages/_document.js": 3,
+      "static/yOJpA9oXXzP5OXkD4lJp7/pages/_error.js": 4,
+      "static/yOJpA9oXXzP5OXkD4lJp7/pages/src.js": 5,
+      "static/yOJpA9oXXzP5OXkD4lJp7/pages/src/App.js": 6,
+      "static/yOJpA9oXXzP5OXkD4lJp7/pages/src/App.test.js": 7,
+      "static/yOJpA9oXXzP5OXkD4lJp7/pages/src/components/LoginForm.js": 8,
+      "static/yOJpA9oXXzP5OXkD4lJp7/pages/src/components/snackDetail.js": 9,
+      "static/yOJpA9oXXzP5OXkD4lJp7/pages/src/components/snackForm.js": 10,
+      "static/yOJpA9oXXzP5OXkD4lJp7/pages/src/components/snackList.js": 11,
+      "static/yOJpA9oXXzP5OXkD4lJp7/pages/src/serviceWorker.js": 12,
+      "static/yOJpA9oXXzP5OXkD4lJp7/pages/src/setupTests.js": 13,
+      "static/MC6nL1Ms_HRT9utVY916w/pages/_app.js": 14,
+      "static/MC6nL1Ms_HRT9utVY916w/pages/_document.js": 15,
+      "static/MC6nL1Ms_HRT9utVY916w/pages/_error.js": 16,
+      "static/MC6nL1Ms_HRT9utVY916w/pages/src.js": 17,
+      "static/MC6nL1Ms_HRT9utVY916w/pages/src/App.js": 18,
+      "static/MC6nL1Ms_HRT9utVY916w/pages/src/App.test.js": 19,
+      "static/MC6nL1Ms_HRT9utVY916w/pages/src/components/LoginForm.js": 20,
+      "static/MC6nL1Ms_HRT9utVY916w/pages/src/components/snackDetail.js": 21,
+      "static/MC6nL1Ms_HRT9utVY916w/pages/src/components/snackForm.js": 22,
+      "static/MC6nL1Ms_HRT9utVY916w/pages/src/components/snackList.js": 23,
+      "static/MC6nL1Ms_HRT9utVY916w/pages/src/serviceWorker.js": 24,
+      "static/MC6nL1Ms_HRT9utVY916w/pages/src/setupTests.js": 25
+    },
+    "bySource": {},
+    "usedIds": [
+      0,
+      1,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25
+    ]
+  }
+}
