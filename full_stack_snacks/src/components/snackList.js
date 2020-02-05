@@ -1,13 +1,14 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 
-export default props => (
-    
+import SnackForm from './snackForm';
+
+export default props => ( 
     <>
-        {/* {console.log('props: ', props)} */}
         <ul>
             {props.snacks.map(snack => <ListItem key={snack.id} snack={snack}/>)}
         </ul>
+        <SnackForm name={''} desc={''} doneHandler={props.doneHandler}/>
     </>
 )
 
